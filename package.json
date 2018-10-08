@@ -1,0 +1,15 @@
+{
+  "name": "opal-npm",
+  "version": "0.1.0-SNAPSHOT",
+  "description": "Opal managed by npm",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryo Ota <nwtgck@gmail.com> (https://github.com/nwtgck)",
+  "keywords": [
+    "opal",
+    "ruby",
+    "npm"
+  ],
+  "license": "MIT"
+}
